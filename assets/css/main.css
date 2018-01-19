@@ -9,7 +9,7 @@
 
 /* Reset */
 
-	.cuadro {
+	#main article .cuadro {
 		padding: 20px 40px;
 		background-color: #222121;
 	}
