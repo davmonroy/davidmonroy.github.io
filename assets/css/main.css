@@ -1333,7 +1333,7 @@
 		}
 
 		#header nav.use-middle ul li.is-middle {
-			border-left: 0;
+			border-left: solid 1px #ffffff;
 		}
 
 		body.is-article-visible #header {
