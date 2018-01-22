@@ -9,6 +9,10 @@
 
 /* Reset */
 
+	#main article. cuadrito{
+		padding: 10px 20px;
+	}
+
 	#main article .cuadro {
 		padding: 20px 40px;
 		background-color: #222121;
